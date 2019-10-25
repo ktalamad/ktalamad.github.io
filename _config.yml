@@ -84,37 +84,37 @@ author:
   avatar           : "kartik1.jpg"
   bio              : "Researcher at IBM Research"
   location         : "Seattle"
-  employer         :
-  pubmed           : ""
+  employer         : "IBM Research"
+  # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=OGEfX0UAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "krtalamad@us.ibm.com"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
   github           : "ktalamad"
-  google_plus      :
-  keybase          :
-  instagram        :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  linkedin         : "https://www.linkedin.com/in/ktalamad/"
+  # orcid            : ""
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
   twitter          : "kr_t"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
